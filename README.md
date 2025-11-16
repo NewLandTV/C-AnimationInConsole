@@ -2,6 +2,8 @@
 
 Animation in Console with C!!!
 
+[![Development Note p.234](https://img.youtube.com/vi/voVKCN6dQaQ/0.jpg)](https://www.youtube.com/watch?v=voVKCN6dQaQ)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
