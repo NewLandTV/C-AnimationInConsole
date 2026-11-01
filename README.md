@@ -10,6 +10,10 @@ Animation in Console with C!!!
 
 [![Development Note p.300](https://img.youtube.com/vi/f8SE33AQ3uw/0.jpg)](https://www.youtube.com/watch?v=f8SE33AQ3uw)
 
+## 03. Dev Note p.397
+
+[![Development Note p.397](https://img.youtube.com/vi/_vkPIYZlXAE/0.jpg)](https://www.youtube.com/watch?v=_vkPIYZlXAE)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
