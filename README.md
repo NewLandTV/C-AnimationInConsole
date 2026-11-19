@@ -6,6 +6,10 @@ Animation in Console with C!!!
 
 [![Development Note p.234](https://img.youtube.com/vi/voVKCN6dQaQ/0.jpg)](https://www.youtube.com/watch?v=voVKCN6dQaQ)
 
+| File Name | Creation Date | Modified Date |
+| :-: | :-: | :-: |
+| Animation.c | 2022.12.14. Wed, 21:00:10 (PM) | 2022.12.14. Wed, 21:18:49 (PM) |
+
 ## 02. Dev Note p.300
 
 [![Development Note p.300](https://img.youtube.com/vi/f8SE33AQ3uw/0.jpg)](https://www.youtube.com/watch?v=f8SE33AQ3uw)
